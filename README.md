@@ -1,1 +1,1 @@
-# Sample php app deploy from jenkins to aws elastic beanstalk
+# Sample flask app CICD to aws s3 & elastic beanstalk
