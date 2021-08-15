@@ -1,5 +1,8 @@
 # Github Actions: CICD pipeline of Flask app to AWS S3 & Elastic Beanstalk
 
+Status of Last Deployment:<br>
+<img src="https://github.com/viki-vik/cicd-flask-aws-beanstalk/workflows/CI-CD-Pipeline-to-AWS-ElasticBeastalk/badge.svg?branch=main"><br>
+
 #### on AWS:
 1. Create AWS IAM user with programmatic access, create Access Key and Secret Key
 2. Add EB and S3 read/write policies to IAM user
